@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">ShapeSolver</string>
+    <string name="home">Home</string>
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="kembali">Kembali</string>
+    <string name="bagikan">Bagikan</string>
+    <string name="bagikan_template_perpan">Luas Persegi Panjang: %1$s cm\n\nKeliling Persegi Panjang: %2$s cm</string>
+    <string name="bagikan_template_persegi">Luas Persegi: %1$s cm\n\nKeliling Persegi: %2$s cm</string>
+    <string name="bagikan_template_lingkaran">Luas Lingkaran: %1$s cm\n\nKeliling Lingkaran: %2$s cm</string>
+    <string name="bagikan_template_segitiga">Luas Segitiga: %1$s cm</string>
+    <string name="copyright">Aplikasi Android untuk Menghitung Luas dan Keliling Bangun Datar.\n\nAplikasi ini dibuat untuk memudahkan untuk menghitung luas dan keliling bangun datar.\n\nCopyright © 2022 – 2024 Kevin Sianturi.\nAll rights reserved</string>
+    <string name="persegi">Persegi</string>
+    <string name="persegi_deskripsi">Menghitung luas dan keliling persegi! Masukkan data berikut:</string>
+    <string name="persegi_panjang">Persegi Panjang</string>
+    <string name="persegi_panjang_deskripsi">Menghitung luas dan keliling persegi panjang! Masukkan data berikut:</string>
+    <string name="lingkaran">Lingkaran</string>
+    <string name="lingkaran_deskripsi">Menghitung luas dan keliling lingkaran! Masukkan data berikut:</string>
+    <string name="segitiga">Segitiga</string>
+    <string name="segitiga_deskripsi">Menghitung luas segitiga! Masukkan data berikut:</string>
+    <string name="panjang">Panjang</string>
+    <string name="sisi">Sisi</string>
+    <string name="alas">Alas</string>
+    <string name="tinggi">Tinggi</string>
+    <string name="jari_jari">Jari-jari</string>
+    <string name="keliling">Keliling</string>
+    <string name="luas">Luas</string>
+    <string name="lebar">Lebar</string>
+    <string name="hitung">Hitung</string>
+    <string name="reset">Reset</string>
+    <string name="input_invalid">Input tidak valid</string>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ShapeSolver</string>
+    <string name="home">Home</string>
+    <string name="tentang_aplikasi">About Application</string>
+    <string name="kembali">Back</string>
+    <string name="bagikan">Share</string>
+    <string name="bagikan_template_perpan">Rectangle Area: %1$s cm\n\nRectangle Perimeter: %2$s cm</string>
+    <string name="bagikan_template_persegi">Square Area: %1$s cm\n\nSquare Perimeter: %2$s cm</string>
+    <string name="bagikan_template_lingkaran">Cirle Area: %1$s cm\n\nCirle Perimeter: %2$s cm</string>
+    <string name="bagikan_template_segitiga">Triangle Area: %1$s cm</string>
+    <string name="copyright">Android application for calculating Area and Perimeter of Geometric Shapes.\n\nThis application is designed to simplify the calculation of area and perimeter of geometric shapes.\n\nCopyright © 2022 – 2024 Kevin Sianturi.\nAll rights reserved</string>
+    <string name="persegi">Square</string>
+    <string name="persegi_deskripsi">Calculate the area and perimeter of a square! Enter the following data:</string>
+    <string name="persegi_panjang">Rectangle</string>
+    <string name="persegi_panjang_deskripsi">Calculate the area and perimeter of a rectangle! Enter the following data:</string>
+    <string name="lingkaran">Circle</string>
+    <string name="lingkaran_deskripsi">Calculate the area and perimeter of a circle! Enter the following data:</string>
+    <string name="segitiga">Triangle</string>
+    <string name="segitiga_deskripsi">Calculate the area of a triangle! Enter the following data:</string>
+    <string name="panjang">Length</string>
+    <string name="sisi">Side</string>
+    <string name="alas">Base</string>
+    <string name="tinggi">Height</string>
+    <string name="jari_jari">Radius</string>
+    <string name="keliling">Perimeter</string>
+    <string name="luas">Area</string>
+    <string name="lebar">Width</string>
+    <string name="hitung">Calculate</string>
+    <string name="reset">Reset</string>
+    <string name="input_invalid">Invalid Input</string>
+</resources>
